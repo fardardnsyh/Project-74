@@ -1,0 +1,69 @@
+{
+  "name": "Emily Brown",
+  "email": "emilybrown@example.com",
+  "password": "securepassword1",
+  "role": "jobseeker"
+}
+
+{
+  "name": "Michael Davis",
+  "email": "michaeldavis@example.com",
+  "password": "strongpassword2",
+  "role": "company"
+}
+
+{
+  "name": "Olivia Wilson",
+  "email": "oliviawilson@example.com",
+  "password": "complexpassword3",
+  "role": "jobseeker"
+}
+
+{
+  "name": "Daniel Martinez",
+  "email": "danielmartinez@example.com",
+  "password": "uniquePassword4",
+  "role": "company"
+}
+
+{
+  "name": "Sophia Anderson",
+  "email": "sophiaanderson@example.com",
+  "password": "randompassword5",
+  "role": "jobseeker"
+}
+
+{
+  "name": "William Taylor",
+  "email": "williamtaylor@example.com",
+  "password": "secretpassword6",
+  "role": "company"
+}
+
+{
+  "name": "Ava Thomas",
+  "email": "avathomas@example.com",
+  "password": "newpassword7",
+  "role": "jobseeker"
+}
+
+{
+  "name": "James Hernandez",
+  "email": "jameshernandez@example.com",
+  "password": "anotherpassword8",
+  "role": "company"
+}
+
+{
+  "name": "Isabella Jackson",
+  "email": "isabellajackson@example.com",
+  "password": "safePassword9",
+  "role": "jobseeker"
+}
+
+{
+  "name": "Benjamin White",
+  "email": "benjaminwhite@example.com",
+  "password": "bestpassword10",
+  "role": "company"
+}
